@@ -5,7 +5,7 @@ This project was a proof-of-concept descriptive analysis for **Offuture**, a glo
 
 ## Project Overview:
 - **Analyze the Data:** Performed SQL-based analysis on a multi-table relational database to understand company performance.
-- **Visualization & Storytelling:** Transformed complex data into intuitive Tableau dashboards to communicate key findings.
+- **Visualization & Storytelling:** Transformed complex data into intuitive Tableau dashboards to communicate key findings.  Link: https://public.tableau.com/app/profile/greg.stark/viz/Team10acious-OffutureProjectAllGraphs/WorstPerformingProducts  
 - **Present:** Delivered a cohesive presentation to the client, outlining performance trends and strategic insights.
 
 ## Tools & Technologies
